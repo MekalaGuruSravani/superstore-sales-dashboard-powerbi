@@ -100,7 +100,7 @@ It demonstrates how structured data can be converted into actionable insights us
 
 ## 🖼 Dashboard Preview
 
-![Superstore Sales Dashboard](Superstore Sales Dashboard.png)
+![Superstore Sales Dashboard](superstore-sales-dashboard.png)
 
 ---
 
